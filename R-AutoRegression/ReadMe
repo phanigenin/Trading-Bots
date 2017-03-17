@@ -1,3 +1,2 @@
-AR models work on the AutoCorrelation property of timeseries. Beauty of R, is that R can fit a given Timeseries into a best fit AR model 
-( yes, the AIC,BIC criteria are built in ) and then predicts the series for a few candles ahead.Not a great addition to Prediction value
+AR models work on the AutoCorrelation property of timeseries. Beauty of R, is that R can fit a given Timeseries into a best fit AR model ( yes, the AIC,BIC criteria are built in ) and then predicts the series for a few candles ahead.Not a great addition to Prediction value
 as i found with simple AR, but yes a very good starting point :)
